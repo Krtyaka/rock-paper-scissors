@@ -28,6 +28,7 @@ Play against the computer, track your score, and even let the game play itself w
 ---
 
 ## 📂 Project Structure
+```
 rock-paper-scissors/
 ├── rock-papers-scissors.html
 ├── rock-paper-scissors.css
@@ -36,16 +37,19 @@ rock-paper-scissors/
     ├── rock-emoji.png
     ├── paper-emoji.png
     └── scissors-emoji.png
+```
 ---
 
 ## 📸 Preview
-![Game Screenshot](images/screenshot.png)
+<p align="center">
+  <img src="images/screenshot.png" alt="Game Screenshot" width="400"/>
+</p>
 
 ---
 
 ## ▶️ Live Demo
 Once deployed with GitHub Pages, you’ll be able to play here:  
-👉 **https://Krtyaka.github.io/rock-paper-scissors/**
+👉 **[https://Krtyaka.github.io/rock-paper-scissors/](https://krtyaka.github.io/Calculator-app/)**
 
 ---
 
