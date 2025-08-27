@@ -49,7 +49,7 @@ rock-paper-scissors/
 
 ## ▶️ Live Demo
 Once deployed with GitHub Pages, you’ll be able to play here:  
-👉 **(https://krtyaka.github.io/rock-paper-scissors/)**
+👉 **https://krtyaka.github.io/rock-paper-scissors/**
 
 ---
 
