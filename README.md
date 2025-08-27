@@ -30,7 +30,7 @@ Play against the computer, track your score, and even let the game play itself w
 ## 📂 Project Structure
 ```
 rock-paper-scissors/
-├── rock-papers-scissors.html
+├── index.html
 ├── rock-paper-scissors.css
 ├── rock-paper-scissors.js
 └── images/
@@ -49,7 +49,7 @@ rock-paper-scissors/
 
 ## ▶️ Live Demo
 Once deployed with GitHub Pages, you’ll be able to play here:  
-👉 **[https://Krtyaka.github.io/rock-paper-scissors/](https://krtyaka.github.io/Calculator-app/)**
+👉 **(https://krtyaka.github.io/rock-paper-scissors/)**
 
 ---
 
