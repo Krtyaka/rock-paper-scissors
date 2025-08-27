@@ -154,6 +154,7 @@ function playGame(playerMove) {
 
   document.querySelector(
     ".js-moves"
-  ).innerHTML = `You <img src="/images/${playerMove}-emoji.png" alt="paper-emoji">  <img src="/images/${computerMove}-emoji.png" alt="paper-emoji"> Computer`;
+  ).innerHTML = `You <img src="images/${playerMove}-emoji.png" alt="paper-emoji">  <img src="images/${computerMove}-emoji.png" alt="paper-emoji"> Computer`;
 }
+
 
