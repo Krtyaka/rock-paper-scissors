@@ -48,7 +48,7 @@ rock-paper-scissors/
 ---
 
 ## ▶️ Live Demo
-Once deployed with GitHub Pages, you’ll be able to play here:  
+The App is available here:
 👉 **https://krtyaka.github.io/rock-paper-scissors/**
 
 ---
